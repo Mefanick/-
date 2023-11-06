@@ -7,7 +7,7 @@ function toggleMode() {
   if(html.classList.contains("light")) {
     img.setAttribute("src", './assets/RAK.jpg')
   } else {
-    img.setAttribute('src','./assets/avatar.png')
+    img.setAttribute('src','./assets/Avatar.png')
   }
   if(html.classList.contains("light")) {
     img.style.border = "2px solid grey"
